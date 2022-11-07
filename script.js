@@ -100,7 +100,3 @@ function showNumberBelow() {
     let dialog = getDialog('warning', text);
     document.getElementById("result").innerHTML = dialog;
 }
-
-
-// Thanks for all the hard work Harry bhai
-// Kartik here
